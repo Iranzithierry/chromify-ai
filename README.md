@@ -1,2 +1,2 @@
 # IRANZI DEV
-# Chromify AI Main Page
+# NEXT JS STARTER KIT
